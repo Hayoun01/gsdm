@@ -16,9 +16,9 @@
 
 ## Installation
 
-To install GSDM, you can use the `go get` command:
+To install GSDM, you can use the `go install` command:
 ```bash
-go get github.com/Hayoun01/gsdm
+go install github.com/Hayoun01/gsdm@latest
 ```
 
 ## CLI Usage
